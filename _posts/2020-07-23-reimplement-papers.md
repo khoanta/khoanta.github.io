@@ -8,58 +8,66 @@ excerpt: "implement papers, deeplearning papers"
 mathjax: "true"
 ---
 # List of papers should be implemented
-##Architectures
-AlexNet: https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks
+## Architectures
 
-ZFNet: https://arxiv.org/abs/1311.2901
+  AlexNet: [link](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)
 
-VGG16: https://arxiv.org/abs/1505.06798
+  ZFNet: https://arxiv.org/abs/1311.2901
 
-ResNet: https://arxiv.org/abs/1704.06904
+  VGG16: https://arxiv.org/abs/1505.06798
 
-GoogLeNet: https://arxiv.org/abs/1409.4842
+  ResNet: https://arxiv.org/abs/1704.06904
 
-Inception: https://arxiv.org/abs/1512.00567
+  GoogLeNet: https://arxiv.org/abs/1409.4842
 
-Xception: https://arxiv.org/abs/1610.02357
+  Inception: https://arxiv.org/abs/1512.00567
 
-MobileNet: https://arxiv.org/abs/1704.04861
+  Xception: https://arxiv.org/abs/1610.02357
 
-##Semantic Segmentation
-FCN: https://arxiv.org/abs/1411.4038
+  MobileNet: https://arxiv.org/abs/1704.04861
 
-SegNet: https://arxiv.org/abs/1511.00561
+## Semantic Segmentation
 
-UNet: https://arxiv.org/abs/1505.04597
+  FCN: https://arxiv.org/abs/1411.4038
 
-PSPNet: https://arxiv.org/abs/1612.01105
+  SegNet: https://arxiv.org/abs/1511.00561
 
-DeepLab: https://arxiv.org/abs/1606.00915
+  UNet: https://arxiv.org/abs/1505.04597
 
-ICNet: https://arxiv.org/abs/1704.08545
+  PSPNet: https://arxiv.org/abs/1612.01105
 
-ENet: https://arxiv.org/abs/1606.02147
+  DeepLab: https://arxiv.org/abs/1606.00915
 
-##Generative adversarial networks
-GAN: https://arxiv.org/abs/1406.2661
+  ICNet: https://arxiv.org/abs/1704.08545
 
-DCGAN: https://arxiv.org/abs/1511.06434
+  ENet: https://arxiv.org/abs/1606.02147
 
-WGAN: https://arxiv.org/abs/1701.07875
+## Generative adversarial networks
 
-Pix2Pix: https://arxiv.org/abs/1611.07004
+  GAN: https://arxiv.org/abs/1406.2661
 
-CycleGAN: https://arxiv.org/abs/1703.10593
+  DCGAN: https://arxiv.org/abs/1511.06434
 
-##Object detection
-RCNN: https://arxiv.org/abs/1311.2524
+  WGAN: https://arxiv.org/abs/1701.07875
 
-Fast-RCNN: https://arxiv.org/abs/1504.08083
+  Pix2Pix: https://arxiv.org/abs/1611.07004
 
-Faster-RCNN: https://arxiv.org/abs/1506.01497
+  CycleGAN: https://arxiv.org/abs/1703.10593
 
-SSD: https://arxiv.org/abs/1512.02325
+## Object detection
 
-YOLO: https://arxiv.org/abs/1506.02640
+  RCNN: https://arxiv.org/abs/1311.2524
 
-YOLO9000: https://arxiv.org/abs/1612.08242
+  Fast-RCNN: https://arxiv.org/abs/1504.08083
+
+  Faster-RCNN: https://arxiv.org/abs/1506.01497
+
+  SSD: https://arxiv.org/abs/1512.02325
+
+  YOLO: https://arxiv.org/abs/1506.02640
+
+  YOLO9000: https://arxiv.org/abs/1612.08242
+
+# References
+
+1/ [link](https://www.reddit.com/r/MachineLearning/comments/8vmuet/d_what_deep_learning_papers_should_i_implement_to/)

@@ -3,7 +3,7 @@ title: "Reimplement Deeplearning Papers Project"
 date: 2020-07-23
 tags: [implement papers, deeplearning papers]
 header:
-  image: "/images/deeplearning_papers/images.jpeg"
+  image: "/images/deeplearning_papers/marketing-books.jpg"
 excerpt: "implement papers, deeplearning papers"
 mathjax: "true"
 ---

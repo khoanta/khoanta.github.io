@@ -10,64 +10,67 @@ mathjax: "true"
 # List of papers should be implemented
 ## Architectures
 
-  AlexNet: [link](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)
+  1. [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks): Processing
 
-  ZFNet: https://arxiv.org/abs/1311.2901
+  2. ZFNet: https://arxiv.org/abs/1311.2901
 
-  VGG16: https://arxiv.org/abs/1505.06798
+  3. VGG16: https://arxiv.org/abs/1505.06798
 
-  ResNet: https://arxiv.org/abs/1704.06904
+  4. ResNet: https://arxiv.org/abs/1704.06904
 
-  GoogLeNet: https://arxiv.org/abs/1409.4842
+  5. GoogLeNet: https://arxiv.org/abs/1409.4842
 
-  Inception: https://arxiv.org/abs/1512.00567
+  6. Inception: https://arxiv.org/abs/1512.00567
 
-  Xception: https://arxiv.org/abs/1610.02357
+  7. Xception: https://arxiv.org/abs/1610.02357
 
-  MobileNet: https://arxiv.org/abs/1704.04861
+  8. MobileNet: https://arxiv.org/abs/1704.04861
 
 ## Semantic Segmentation
 
-  FCN: https://arxiv.org/abs/1411.4038
+  9. FCN: https://arxiv.org/abs/1411.4038
 
-  SegNet: https://arxiv.org/abs/1511.00561
+  10. SegNet: https://arxiv.org/abs/1511.00561
 
-  UNet: https://arxiv.org/abs/1505.04597
+  11. UNet: https://arxiv.org/abs/1505.04597
 
-  PSPNet: https://arxiv.org/abs/1612.01105
+  12. PSPNet: https://arxiv.org/abs/1612.01105
 
-  DeepLab: https://arxiv.org/abs/1606.00915
+  13. DeepLab: https://arxiv.org/abs/1606.00915
 
-  ICNet: https://arxiv.org/abs/1704.08545
+  14. ICNet: https://arxiv.org/abs/1704.08545
 
-  ENet: https://arxiv.org/abs/1606.02147
+  15. ENet: https://arxiv.org/abs/1606.02147
+
 
 ## Generative adversarial networks
 
-  GAN: https://arxiv.org/abs/1406.2661
+  16. GAN: https://arxiv.org/abs/1406.2661
 
-  DCGAN: https://arxiv.org/abs/1511.06434
+  17. DCGAN: https://arxiv.org/abs/1511.06434
 
-  WGAN: https://arxiv.org/abs/1701.07875
+  18. WGAN: https://arxiv.org/abs/1701.07875
 
-  Pix2Pix: https://arxiv.org/abs/1611.07004
+  19. Pix2Pix: https://arxiv.org/abs/1611.07004
 
-  CycleGAN: https://arxiv.org/abs/1703.10593
+  20. CycleGAN: https://arxiv.org/abs/1703.10593
 
 ## Object detection
 
-  RCNN: https://arxiv.org/abs/1311.2524
+  21. RCNN: https://arxiv.org/abs/1311.2524
 
-  Fast-RCNN: https://arxiv.org/abs/1504.08083
+  22. Fast-RCNN: https://arxiv.org/abs/1504.08083
 
-  Faster-RCNN: https://arxiv.org/abs/1506.01497
+  23. Faster-RCNN: https://arxiv.org/abs/1506.01497
 
-  SSD: https://arxiv.org/abs/1512.02325
+  24. Mask-RCNN:
 
-  YOLO: https://arxiv.org/abs/1506.02640
+  25. SSD: https://arxiv.org/abs/1512.02325
 
-  YOLO9000: https://arxiv.org/abs/1612.08242
+  26. YOLO: https://arxiv.org/abs/1506.02640
+
+  27. YOLO9000: https://arxiv.org/abs/1612.08242
 
 # References
 
-1/ [link](https://www.reddit.com/r/MachineLearning/comments/8vmuet/d_what_deep_learning_papers_should_i_implement_to/)
+1/ [What deep learning papers should I implement to learn?](https://www.reddit.com/r/MachineLearning/comments/8vmuet/d_what_deep_learning_papers_should_i_implement_to/)

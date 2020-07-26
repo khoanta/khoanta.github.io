@@ -71,6 +71,8 @@ mathjax: "true"
 
   27. YOLO9000: https://arxiv.org/abs/1612.08242
 
+## Optional
+  - Ioffe, Sergey, and Christian Szegedy. “Batch normalization: Accelerating deep network training by reducing internal covariate shift.” arXiv preprint arXiv:1502.03167 (2015).
 # References
 
 1/ [What deep learning papers should I implement to learn?](https://www.reddit.com/r/MachineLearning/comments/8vmuet/d_what_deep_learning_papers_should_i_implement_to/)
